@@ -1,4 +1,4 @@
 BlogGueye
 =========
 
-Mon Premier Blog Propulsépar Symfony2
+Mon Premier Blog Propulsé par Symfony2
